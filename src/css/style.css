@@ -20,6 +20,10 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
+<<<<<<< HEAD
+=======
+  /* max-height: 700px; */
+>>>>>>> 14d2bf1b8656f8798bc341b4ff13528c4f8590cc
   min-height: 700px;
   color: #fff;
   font-weight: 400;
@@ -392,7 +396,7 @@ body {
 }
 
 .form__button {
-  font-family: Oswald, sans-serif;
+  font-family: inherit;
   width: 250px;
   height: 50px;
   margin-top: 65px;
